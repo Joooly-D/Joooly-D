@@ -1,16 +1,16 @@
-## Hi there 👋
+## ¡Hola, Personaaas! 🌍
+¡Bienvenida(o) eeeeee!
 
-<!--
-**Joooly-D/Joooly-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quién soy?
+  + 🧑‍🎓 Aprendiendo constantemente sobre desarrollo web, programación y buenas prácticas.
+  + 💻 Explorando tecnologías como HTML, CSS, JavaScript 
 
-Here are some ideas to get you started:
+🚀 Habilidades en desarrollo
+  + 🧰 Lenguajes: Python, HTML, CSS, JavaScript
+  + 🔨 Herramientas: GitHub, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Mis metas
+  + 🌟 Mejorar mis habilidades de frontend y explorar el backend.
+  + 🛠️ Desarrollar proyectos personales para fortalecer mis conocimientos.
+
+Pronto subire mi portafolio :)
